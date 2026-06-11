@@ -16,4 +16,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: www.linkedin.com/in/chukwuemeka-ibegbule-a1a363229
+[linkedin]:https://linkedin.com/in/chukwuemeka-ibegbule
