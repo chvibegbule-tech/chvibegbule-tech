@@ -1,6 +1,18 @@
 <h1>Hi, I'm Chukwuemeka H.V Ibegbule, an <a href="https://linkedin.com/in/chukwuemeka-ibegbule">IT Professional</a>☺</h1>
+I'm an aspiring DevOps and DevSecOps Engineer currently building my foundation through IT Support, Cloud, Networking, and Security projects.
+
+
+🔹 Building hands-on IT, Cloud, and Security projects
+
+🔹 Focused on Automation, Cloud Infrastructure, CI/CD, and Security
+
+
+🔹 Sharing labs, scripts, and projects as I grow
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+
+
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/chvibegbule-tech/osticket-prereqs)
