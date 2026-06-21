@@ -6,7 +6,6 @@ I'm an aspiring DevOps and DevSecOps Engineer currently building my foundation t
 
 🔹 Focused on Automation, Cloud Infrastructure, CI/CD, and Security
 
-
 🔹 Sharing labs, scripts, and projects as I grow
 
 
