@@ -1,15 +1,17 @@
 <h1>Hi, I'm Chukwuemeka H.V Ibegbule, an <a href="https://linkedin.com/in/chukwuemeka-ibegbule">IT Professional</a>☺</h1>
-I'm an aspiring DevOps and DevSecOps Engineer currently building my foundation through IT Support, Cloud, Networking, and Security projects.
+IT Support professional with hands-on experience building Windows Server, Active Directory, Azure, Networking, and PowerShell labs. Passionate about cloud infrastructure, automation, and security, with the long-term goal of becoming a DevOps/DevSecOps Engineer.  
 
 
-🔹 Building hands-on IT, Cloud, and Security projects
+
+
+<br>🔹 Building hands-on IT, Cloud, and Security projects
 
 🔹 Focused on Automation, Cloud Infrastructure, CI/CD, and Security
 
 🔹 Sharing labs, scripts, and projects as I grow
 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>🖥️ Enterprise IT & Cloud Projects:</h2>
 
 
 
